@@ -1,0 +1,71 @@
+body {
+    color: white;
+}
+
+.logo {
+    float: left;
+}
+
+.navigation {
+    float: right;
+}
+
+.l1 {
+    background-color: rgb(5, 3, 1);
+    width: 666.5px;
+    height: 60px;
+}
+
+.cn {
+    height: 50px;
+    width: 1333px;
+}
+
+.header {
+    background-color: rgb(247, 10, 128);
+    margin-top: 25px;
+    text-align: center;
+    padding: 50px 0px;
+    width: 1333px;
+}
+
+.intro {
+    background-color: rgb(24, 143, 14);
+    margin: 10px 0px;
+    padding: 50px 0px;
+    width: 1333px;
+    text-align: center;
+}
+
+.box {
+    padding: 200px 0px;
+    width: 399.891px;
+    background-color: rgb(119, 11, 190);
+    text-align: center;
+}
+
+.box1 {
+    float: left;
+}
+
+.box2 {
+    float: left;
+    margin: 0 66px;
+}
+
+.box3 {
+    float: right;
+}
+
+.boxP {
+    height: 418px;
+    width: 1333px;
+}
+
+.footer {
+    background-color: rgb(182, 12, 12);
+    margin: 10px 0px;
+    padding: 20px 0px;
+    width: 1333px;
+    text-align: center;
+}

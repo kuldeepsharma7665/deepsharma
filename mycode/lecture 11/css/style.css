@@ -1,0 +1,61 @@
+.margin {
+    margin-bottom: 40px;
+}
+
+.width {
+    background-color: violet;
+    height: 200px;
+    width: 300px;
+    overflow: hidden;
+    float: left;
+    margin-right: 50px;
+}
+
+.red {
+    background-color: red;
+    height: 200px;
+    width: 300px;
+    overflow: visible;
+    float: left;
+}
+
+.color {
+    background-color: royalblue;
+    height: 200px;
+    width: 300px;
+    overflow-y: scroll;
+    float: left;
+    margin-left: 50px;
+}
+
+.overfoll {
+    border-color: powderblue;
+    height: 200px;
+    width: 300px;
+    overflow: auto;
+    background-color: orangered;
+    float: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+.display {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+ul {
+    list-style: none;
+    margin-top: 22px;
+}
+
+.hiddin {
+    visibility: hidden;
+}
+
+.hiddin1 {
+    visibility: hidden;
+    display: none;
+}

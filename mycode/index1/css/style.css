@@ -1,0 +1,137 @@
+.cantener {
+    padding: 18px;
+}
+
+.logo {
+    background-color: rgb(17, 15, 15);
+    color: white;
+    float: left;
+    padding: 12px;
+}
+
+.search {
+    background-color: rgb(17, 15, 15);
+    color: white;
+    float: right;
+    padding: 6px;
+    width: 110px;
+    text-align: center;
+}
+
+.navigation {
+    background-color: rgb(17, 15, 15);
+    color: white;
+    margin-top: 50px;
+    width: 1271.05px;
+    padding: 12.96px;
+}
+
+.header {
+    color: white;
+    background-color: rgb(17, 15, 15);
+    text-align: center;
+    width: 1271.05px;
+    padding: 92px 13px;
+    margin: 10px 0px;
+}
+
+.cantener2 {
+    width: 1324px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.width {
+    width: 296px;
+    height: 20px;
+    padding: 11px;
+}
+
+.tabs {
+    background-color: darkgray;
+    color: white;
+    float: left;
+    margin: 0px 10px;
+}
+
+.box1 {
+    background-color: darkgray;
+    color: white;
+    float: left;
+}
+
+.box2 {
+    background-color: darkgray;
+    color: white;
+    float: left;
+    margin-left: 10px;
+}
+
+.box3 {
+    background-color: darkgray;
+    color: white;
+    margin-right: 10px;
+    float: right;
+}
+
+.content {
+    background-color: rgb(202, 49, 49);
+    color: white;
+    margin: 10px;
+    height: 10px;
+    padding: 100px 0px;
+    text-align: center;
+    color: white;
+}
+
+.test {
+    background-color: chartreuse;
+    color: white;
+    margin: 25px 10px;
+    padding: 25px 0px;
+    text-align: center;
+    width: 1304.05px;
+    margin-left: 12px;
+}
+
+.main {
+    width: 1318px;
+    margin-left: 5px;
+}
+
+.row1 {
+    background-color: blue;
+    padding: 30px 0px;
+    width: 318px;
+    float: left;
+    height: 50px;
+    margin-right: 16px;
+}
+
+.row2 {
+    background-color: rgb(8, 8, 250);
+    padding: 30px 0px;
+    width: 318px;
+    float: left;
+    height: 50px;
+}
+
+.row3 {
+    background-color: blue;
+    color: white;
+    padding: 21px 0px;
+    width: 318px;
+    float: left;
+    text-align: center;
+    height: 68px;
+    margin-left: 14px;
+}
+
+.row4 {
+    background-color: blue;
+    padding: 30px 0px;
+    width: 318px;
+    float: right;
+    height: 50px;
+    margin-left: 16px;
+}

@@ -1,0 +1,46 @@
+.logo {
+    background-color: rgb(8, 5, 1);
+    height: 40px;
+    margin: 10px;
+    width: 1312px;
+}
+
+.c {
+    width: 1333px;
+}
+
+.c1 {
+    width: 1333px;
+    height: 530px;
+}
+
+.header {
+    background-color: rgb(207, 7, 147);
+    float: right;
+    width: 799.797px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+}
+
+.body {
+    background-color: brown;
+    float: right;
+    width: 799.797px;
+    height: 300px;
+    margin: 10px;
+    text-align: center;
+}
+
+.span {
+    padding: 0px 20px;
+    margin: 2px 5px;
+}
+
+.footer {
+    background-color: rgb(31, 31, 37);
+    margin: 10px 0px;
+    padding: 30px;
+    text-align: center;
+    width: 1263px;
+}

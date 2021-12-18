@@ -1,0 +1,56 @@
+.logo {
+    background-color: yellowgreen;
+    color: white;
+    width: 1333px;
+    padding: 20px 0px;
+    margin: 2px 0px;
+}
+
+.navigation {
+    background-color: aquamarine;
+    color: white;
+    width: 1333px;
+    margin: 20px 0px;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.header {
+    background-color: #ff5f6c;
+    color: white;
+    width: 1333px;
+    margin: 25px 0px;
+    padding: 67px 0px;
+    text-align: center;
+}
+
+.contener {
+    width: 1333px;
+}
+
+.sidebar {
+    color: rgb(2, 0, 0);
+    background-color: aqua;
+    float: left;
+    width: 533.2px;
+    height: 271px;
+    text-align: center;
+}
+
+.bodyarea {
+    background-color: violet;
+    color: white;
+    float: right;
+    width: 799.8px;
+    height: 271px;
+    text-align: center;
+}
+
+.footer {
+    background-color: rgb(235, 8, 204);
+    color: white;
+    width: 1333px;
+    margin: 20px 0px;
+    padding: 15px 0px;
+    text-align: center;
+}

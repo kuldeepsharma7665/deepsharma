@@ -1,0 +1,126 @@
+*{margin: 0px;
+padding: 0px;
+}
+
+
+a.click {
+    background-color: rgb(240, 240, 123);
+    border: 5px solid rgb(214, 250, 252);
+    margin: 10px 10px;
+    padding: 10px 10px;
+    color: black;
+}
+
+a.click:hover {
+    background-color: rgb(240, 175, 64);
+    color: red;
+    border: 5px solid rgb(91, 176, 180);
+    margin: 10px 10px;
+}
+
+a.click:active {
+    background-color: rgb(216, 218, 218);
+    color: rgb(40, 161, 3);
+    border: 5px solid rgb(214, 250, 252);
+    margin: 10px 10px;
+}
+
+ul li:first-child {
+    color: red;
+}
+
+ul li:last-child {
+    color: blue;
+}
+
+ul li:nth-child(3) {
+    color: aqua;
+}
+
+input:focus {
+    background-color: rgb(106, 199, 152);
+}
+
+h3 {
+    text-align: center;
+    display: block;
+}
+
+h3::after {
+    content: '';
+    display: block;
+    margin: auto;
+    background-color: cyan;
+    border-bottom: 4px solid red;
+    width: 53px;
+}
+
+h3::before {
+    content: '';
+    display: block;
+    margin: auto;
+    background-color: cyan;
+    border-bottom: 4px solid red;
+    width: 53px;
+}
+
+a {
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+a.search {
+    background-color: rgb(193, 253, 132);
+    color: rgb(47, 0, 255);
+    padding: 10px;
+}
+
+a.search:hover {
+    background-color: rgb(243, 3, 3);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+}
+
+a.search:active {
+    background-color: rgb(247, 191, 7);
+    color: rgb(12, 238, 31);
+    padding: 10px;
+}
+
+a.about {
+    color: rgb(11, 202, 250);
+    padding: 10px;
+    background-color: black;
+}
+
+a.about:hover {
+    color: rgb(11, 32, 223);
+    padding: 10px;
+    background-color: rgb(220, 8, 240);
+}
+
+a.about:active {
+    color: rgb(241, 11, 11);
+    padding: 10px;
+    background-color: slategrey;
+}
+
+a.login {
+    color: rgb(228, 5, 154);
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+
+a.login:hover {
+    color: rgb(243, 228, 22);
+    padding: 10px;
+    background-color: black;
+}
+
+a.login:active {
+    color: rgb(11, 118, 241);
+    padding: 10px;
+    background-color: chartreuse;
+}
+h1:nth-of-type(odd){ color: aqua;}
+h2:nth-of-type(even){color: tomato;}

@@ -1,0 +1,44 @@
+p {
+    color: aqua;
+}
+
+h1 span {
+    color: chartreuse;
+}
+
+h1 .color {
+    color: blue;
+}
+
+h1#red {
+    color: red;
+}
+
+h1 #black {
+    color: rgb(49, 30, 30);
+}
+
+.box {
+    color: tomato;
+}
+
+.box1 .tag2 {
+    color: steelblue;
+}
+
+.box1 p {
+    color: teal;
+}
+
+.color1.color2 {
+    color: palevioletred;
+}
+
+.h1#h2 {
+    color: red;
+}
+
+#font #font1 {
+    font-size: large;
+    color: rgb(238, 10, 162);
+}

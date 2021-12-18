@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form2</title>
+</head>
+
+<body>
+    <table >
+        <form>
+            <tr> 
+                <th rowspan="2"> <label>Username:</label></th>
+            </tr>
+            <tr>
+                <td> <input name="Username:" type="text"></td>
+            </tr>
+            <tr>
+                <th rowspan="2">
+                    <label> Password:</label>
+                </th>
+            </tr>
+            <tr>
+                <td> <input name="Password:" type="password"></td>
+            </tr>
+            <tr>
+                <th rowspan="2"> <label>Web server:</label></th>
+            </tr>
+            <tr>
+                <td>
+                    <select name="wab server:" >
+                        <option name="" value="-- Choose a server --" > -- Choose a server -- </option>
+                        <option name="wab server:" value="http">http</option> <br>
+                        <option name="wab server:" value="nginx ">nginx</option> <br>
+                        <option name="wab server:" value="lighttpd">lighttpd</option> <br>
+
+
+
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th rowspan="2"> <label>Please specift your role: </label></th>
+            </tr>
+            <tr>
+                <td>
+                    <input name="Please specift your role:" type="radio" value="Admin" required><label>Admin </label>
+                    <br>
+                    <input name="Please specift your role:" type="radio" value="Engineer" required>
+                    <label>Engineer</label> <br>
+                    <input name="Please specift your role:" type="radio" value="Manager" required>
+                    <label>Manager</label> <br>
+                    <input name="Please specift your role:" type="radio" value="Guest" required> <label>Guest</label>
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <th rowspan="2">
+                    <label>Single Sign - on to the following:</label>
+                </th>
+            </tr>
+            <tr>
+                <td>
+                    <input name="Single Sign - on to the following:" type="checkbox" value="Mail" multiple>
+                    <label>Mail</label> <br>
+                    <input name="Single Sign - on to the following:" type="checkbox" value="Payroll"
+                        multiple><label>Payroll</label> <br>
+                    <input name="Single Sign - on to the following:" type="checkbox" value="Self-service"
+                        multiple><label>Self-service</label> <br>
+                </td>
+            </tr>
+            <tr>
+                <th colspan="4">
+                    <input type="submit" value="Login">
+
+
+
+                    <colspan="2">
+                        <input type="reset" value="reset">
+                </th>
+            </tr>
+
+
+
+        </form>
+    </table>
+
+</body>
+
+</html>
